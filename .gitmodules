@@ -1,0 +1,3 @@
+[submodule "practice3/practice3/django-notes-app"]
+	path = practice3/practice3/django-notes-app
+	url = https://github.com/LondheShubham153/django-notes-app.git
